@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🍇 Klasifikasi Buah (Merah vs Hijau)")
+st.title("🍇 Klasifikasi Anggur (Merah vs Hijau)")
 st.write("Upload model (.tflite) dan gambar untuk melakukan klasifikasi buah.")
 
 # Threshold untuk menolak gambar yang tidak dikenali
